@@ -1,4 +1,4 @@
-# Trilhas de pesquisa reproduzíveis. Python 3.14.10, macOS arm64.
+# Reproducible research environment. Python 3.14.10, macOS arm64.
 arch==8.0.0
 attrs==26.1.0
 cloudpickle==3.1.2
@@ -10,7 +10,7 @@ fonttools==4.68.0
 formulaic==1.2.2
 hmmlearn==0.3.3
 interface_meta==2.0.1
-# Usado por pandas.Styler no notebook de volatilidade.
+# Used by pandas.Styler in the volatility notebook.
 Jinja2==3.1.6
 joblib==1.6.0
 jsonschema==4.26.0

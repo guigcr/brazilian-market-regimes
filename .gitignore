@@ -4,10 +4,14 @@ __pycache__/
 .ipynb_checkpoints/
 .DS_Store
 .env*
+data/
+results_*/
+*.csv
+*.ubj
+*.zip
+
+# Private directories used by the original research checkout.
 dados/
 resultados_*/
 paper_bova11/
 arquivo_legado/
-*.csv
-*.ubj
-*.zip
